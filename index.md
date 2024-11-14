@@ -2,21 +2,27 @@
 title: Entornos 
 layout: home
 children: 3
+
 title: Base de datos
 layout : default
 children: 3
+
 title: Programación
 layout : default
 children: 3
+
 title: Lenguaje de marcas
 layout : default
-children: 3
+children: 30
+
 title: Englés
 layout : default
 children: 3
+
 title: Sistemas informaticos
 layout : default
 children: 3
+
 title: Fol
 layout : default
 children: 3
