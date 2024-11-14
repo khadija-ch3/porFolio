@@ -1,6 +1,6 @@
 ---
 title: Programación
-layout: home
+layout: Home
 nav_order: 2
 parent: Home
 ---
