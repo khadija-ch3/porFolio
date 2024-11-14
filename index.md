@@ -1,18 +1,25 @@
 ---
 title: Entornos 
 layout: home
+children: 3
 title: Base de datos
 layout : default
+children: 3
 title: Programación
 layout : default
+children: 3
 title: Lenguaje de marcas
 layout : default
+children: 3
 title: Englés
 layout : default
+children: 3
 title: Sistemas informaticos
 layout : default
+children: 3
 title: Fol
 layout : default
+children: 3
 ---
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
