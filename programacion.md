@@ -14,23 +14,35 @@ En esta asignatura, nos centramos en el aprendizaje de **Java**, un lenguaje de 
 # Ejemplo de Java:
 ---------------------
 
-import java.util.Scanner; //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import java.util.Scanner; 
+
 public class Main {
+
     public static void main(String[] args) {
+    
         Scanner scanner= new Scanner(System.in);
+        
         for (int i=1 ;i<= 4;i++){
+        
             for (int j=1 ; j<=4;j++){
-                System.out.print(" * ");
+            
+                System.out.print(" * ");  
             }
             System.out.println(" ");
         }
-
     }
 }
+
 
 ---------------------
 El resultado de este codigo :
 
-<img src="C:\Users\Chenn\Downloads\java.png" width ="450">
+# * * * *
+
+# * * * *
+
+# * * * *
+
+# * * * *
+
 
